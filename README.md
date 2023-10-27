@@ -11,13 +11,13 @@ This project, "Tp-RMI - Gestion des Machines," is a small application developed 
 ## Screenshots
 
 ### Gestion des Machines
-  [Machine](https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/2945c476-912d-4534-babb-3defcaeba085)
+![Machine](https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/2945c476-912d-4534-babb-3defcaeba085)
 
 ### Gestion des Salles
-  [Salles](https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/46eb263d-255f-4f13-8c2a-2f0c637c4b0f)
+![Salles](https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/46eb263d-255f-4f13-8c2a-2f0c637c4b0f)
 
 ### Filtrer machines par salle
-  [MachineParSalles](https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/5f3714e5-9be3-461f-a926-297480c14b12)
+![MachineParSalles](https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/5f3714e5-9be3-461f-a926-297480c14b12)
 
 ## Video Simulation
 
