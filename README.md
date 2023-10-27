@@ -23,5 +23,6 @@ This project, "Tp-RMI - Gestion des Machines," is a small application developed 
 
 You can view a simulation of the project directly within this README:
 
-https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/162b6c05-5de4-4aaa-b1a5-bbaa3f186e88
+https://github.com/GUEZIR-HAMZA/Tp-RMI2/assets/95761219/ce00db00-1702-421e-8818-657d4adbe48c
+
 
